@@ -24,6 +24,7 @@ def main():
     parser.add_argument('_', nargs='*')
     args = parser.parse_args()
 
+    print('Wow this is amazing')
     print("Arguments: " + str(args._))
     print("Replace this message by putting your code into "
           "{{cookiecutter.project_slug}}.cli.main")
