@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Synergt <audreyr@example.com>
+* {{ cookiecutter.full_name }} <{{ cookiecutter.email }}>
 
 Contributors
 ------------
